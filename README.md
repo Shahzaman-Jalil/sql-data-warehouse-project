@@ -9,7 +9,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 The data architecture for this project follows the **Medallion Architecture** with three layers — Bronze, Silver, and Gold:
 
-![Data Architecture](<img width="1258" height="635" alt="data_architecture" src="https://github.com/user-attachments/assets/a2ac2c46-ca52-458b-a396-cac627c337c4" />)
+![Data Architecture](docs/data_architecture.png)
 
 | Layer | Description |
 |---|---|
