@@ -1,4 +1,4 @@
-<img width="1258" height="635" alt="data_architecture" src="https://github.com/user-attachments/assets/008b16a4-f14e-46e0-a7b5-72c6b0b1b139" /># Data Warehouse and Analytics Project
+# Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository!  
 This project demonstrates a comprehensive data warehousing and analytics solution — from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
@@ -9,7 +9,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 The data architecture for this project follows the **Medallion Architecture** with three layers — Bronze, Silver, and Gold:
 
-![Data Architecture]![Uploading data_architecture.png…]()
+![Data Architecture]<img width="1258" height="635" alt="data_architecture" src="https://github.com/user-attachments/assets/008b16a4-f14e-46e0-a7b5-72c6b0b1b139" />
 
 
 | Layer | Description |
